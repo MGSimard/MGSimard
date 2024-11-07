@@ -1,4 +1,3 @@
-# MGSimard - Full Cycle Developer (frontend-centric)
 Experience in design, UI/UX, usability, Fullstack (Next.js), handling the entire software development lifecycle from design to development.
 
 <table>
