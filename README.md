@@ -1,5 +1,5 @@
 # MGSimard - Full Cycle Developer (frontend-centric)
-Experience in design, UI/UX, usability, Frontend & Backend (Next.js), handling the entire software development lifecycle from design to development.
+Experience in design, UI/UX, usability, Fullstack (Next.js), handling the entire software development lifecycle from design to development.
 
 <table>
   <tr><th>Languages</td><td><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript%20%28ES6%2B%29-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=black" alt="Javascript (ES6+)"/> <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?&style=flat&logo=typescript&logoColor=white" alt="TypeScript"/></td></tr>
