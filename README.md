@@ -1,6 +1,7 @@
 # MGSIMARD
 
-Experience in Fullstack (Next.js & TanStack Start), design, UI/UX, usability - handling the entire software development lifecycle from design to development. Into all kinds of technical and creative hobbies, from Game & Level Design, Graphic Design, Video Editing, Music/Piano, to Research & Reverse-Engineering. More @ https://mgsimard.dev/
+Fullstack Developer focused on Frontend, UI/UX & Design. Into all kinds of technical and creative hobbies, from Game & Level Design, Graphic Design, Video Editing, Music/Piano, to Research & Reverse-Engineering.
+More @ https://mgsimard.dev/
 
 ## [CORE/STACK]
 
