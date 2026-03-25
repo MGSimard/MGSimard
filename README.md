@@ -1,6 +1,7 @@
 # MGSIMARD
 
 Fullstack Developer focused on Frontend, UI/UX & Design. Into all kinds of technical and creative hobbies, from Game & Level Design, Graphic Design, Video Editing, Music/Piano, to Research & Reverse-Engineering.
+
 More @ https://mgsimard.dev/
 
 ## [CORE/STACK]
